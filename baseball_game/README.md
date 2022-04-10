@@ -109,20 +109,6 @@ Accepted
 
 </div>
 
-<div>
-
-<div class="ant-table-wrapper table__1sPX">
-
-<div class="ant-spin-nested-loading">
-
-<div class="ant-spin-container">
-
-<div class="ant-table ant-table-default ant-table-scroll-position-left">
-
-<div class="ant-table-content">
-
-<div class="ant-table-body">
-
 <table class=""><colgroup><col><col><col><col><col></colgroup>
 
 <thead class="ant-table-thead">
@@ -210,23 +196,3 @@ Accepted
 </tbody>
 
 </table>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
