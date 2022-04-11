@@ -20,3 +20,4 @@ class Solution:
                 return [hash_map[n_val], idx]
             else:
                 hash_map[val] = idx
+                return None
