@@ -1,4 +1,53 @@
 
+# Problem
+
+<div class="description__24sA">
+
+<div class="css-101rr4k">
+
+<div data-cy="question-title" class="css-v3d350">3. Longest Substring Without Repeating Characters</div>
+
+</div>
+
+<div class="content__u3I1 question-content__JfgR">
+
+<div>
+
+Given a string `s`, find the length of the **longest substring** without repeating characters.
+
+**Example 1:**
+
+<pre>**Input:** s = "abcabcbb"
+**Output:** 3
+**Explanation:** The answer is "abc", with the length of 3.
+</pre>
+
+**Example 2:**
+
+<pre>**Input:** s = "bbbbb"
+**Output:** 1
+**Explanation:** The answer is "b", with the length of 1.
+</pre>
+
+**Example 3:**
+
+<pre>**Input:** s = "pwwkew"
+**Output:** 3
+**Explanation:** The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+</pre>
+
+**Constraints:**
+
+*   `0 <= s.length <= 5 * 10<sup>4</sup>`
+*   `s` consists of English letters, digits, symbols and spaces.
+
+</div>
+
+</div>
+
+<br>
+
 # Submission
 
 <div class="success__3Ai7">Success</div>
