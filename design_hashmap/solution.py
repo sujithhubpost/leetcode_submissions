@@ -1,3 +1,6 @@
+'''
+Solution to the design hashmap problem
+'''
 class MyHashMap:
 
     def __init__(self):
