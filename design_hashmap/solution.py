@@ -2,19 +2,33 @@
 Solution to the design hashmap problem
 '''
 class MyHashMap:
-
+    '''
+    Main class : Solution to the design hashmap problem
+    '''
     def __init__(self):
-        print("Starting class")
+        '''
+        Init function
+        '''
+        # Save the hashmap as a dict
         self.hash_map = {}
 
     def put(self, key: int, value: int) -> None:
+        '''
+        Add item to hashmap dict
+        '''
         self.hash_map[key] = value
 
     def get(self, key: int) -> int:
-        print(key, self.hash_map.get(key, -1))
+        '''
+        Return -1 if hash key not available, 
+        Return value if hash key available
+        '''
         return self.hash_map.get(key, -1)
 
     def remove(self, key: int) -> None:
+        '''
+        Try to remove the key
+        '''
         try:
             self.hash_map.pop(key)
         except Exception as e:
