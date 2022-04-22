@@ -304,3 +304,7 @@
 </tbody>
 
 </table>
+
+
+## 5. [Design Hashmap](./design_hashmap/)
+
